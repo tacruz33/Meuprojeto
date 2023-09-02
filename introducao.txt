@@ -1,3 +1,10 @@
-iniciando o projeto
+Iniciando o Projeto Residência TIC-18
 
 alteração da branch 
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Essa demanda é referente as atividades instrução prática 2 - PI-P002, do exercício 6: clonando e forking que irá cobrar conhecimentos práticos e teóricos em 
+versionamento de código com Git e no repositório Github.
+
+Obs.: Fez uma correção no seu arquivo .gitignore e acrescentei o arquivo secreto.txt.
